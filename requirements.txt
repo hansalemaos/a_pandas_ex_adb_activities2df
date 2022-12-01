@@ -1,0 +1,6 @@
+a_pandas_ex_plode_tool
+a_pandas_ex_xml2df
+flatten_everything
+pandas
+regex
+subprocess_print_and_capture
