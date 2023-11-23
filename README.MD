@@ -1,3 +1,8 @@
+# Use:
+# https://github.com/hansalemaos/usefuladb
+# https://github.com/hansalemaos/usefuladbplus
+
+
 # Converts AndroidManifest.xml into a Pandas DataFrame (with all activities, queries, permissions ...)
 
 
